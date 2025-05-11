@@ -1,6 +1,6 @@
 # Handwritten Digit Classification with Neural Networks
 
-Welcome to this project on **Handwritten Digit Classification**! This repository demonstrates how to use a **neural network** to classify handwritten digits (0-1). The neural network is trained on a dataset of 20x20 grayscale images and is capable of recognizing and classifying the digits 0 and 1 from the images.
+Welcome to this project on **Handwritten Digit Classification**! This repository demonstrates how to use a **neural network** to classify handwritten digits (0-1). The neural network is trained on a dataset of 20x20 grayscale images and is capable of recognizing and classifying the digits 0 and 1 from the images. Dataset is from MNIST
 
 ## What’s Inside?
 
@@ -18,9 +18,8 @@ In this project, you’ll find:
   - Two hidden layers with ReLU activation.
   - An output layer with a softmax activation to convert logits into probabilities.
 - **Libraries Used**: TensorFlow, Keras, NumPy, and Matplotlib.
-  
 ## How to Run the Project
 
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/sayeed/handwritten-digit-classification.git
+   git clone https://github.com/Sas3380/Binary_Digit_Recognition.git
